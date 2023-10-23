@@ -1,6 +1,7 @@
 {
 	"name": "fcc-learn-npm-package-json",
 	"author": "hevlyo",
+	"description": "A project that does nothing. (or does it?)",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
